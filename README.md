@@ -74,8 +74,7 @@ os.environ["OPENAI_API_KEY"] = "your-openai-api-key"
 
 ---
 
-## 🧑‍💻 Built With ❤️ by GOC
-
+## 🧑‍💻 Built With ❤️ by TKP
 If you like this project, feel free to ⭐ star it or fork it for your own use.
 
 > “The best way to predict your future… is to train it.”
